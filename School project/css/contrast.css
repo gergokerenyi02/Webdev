@@ -1,0 +1,120 @@
+body {
+	background: black !important;
+	text-transform: uppercase;
+}
+
+*
+{
+	color: #FFFF00 !important;
+
+}
+
+@media only screen and (max-width: 991.98px)
+{
+	#tennis
+	{
+		filter: brightness(0.4);
+		z-index: 1;
+	}
+
+}
+
+.navbar {
+	background-color: black !important;
+	border-bottom: 1px solid #FFFF00;
+}
+
+.navbar a {
+	color: #FFFF00 !important;
+}
+
+#button.fadein {
+
+	border-color: #FFFF00;
+}
+
+
+#button.fadein:hover {
+	background-color: black;
+}
+
+footer {
+	border-top: 3px solid #FFFF00;
+	background: none !important;
+	background-color: black !important;
+}
+
+.container-fluid{
+	padding-right: 0;
+	padding-left: 0;
+	}
+.icons
+{
+	padding-top: 5px;
+	background-color: #FFFF00;
+}
+
+
+nav ul li a.active, nav ul li a:hover
+{
+	color: #C2C200 !important;
+}
+.navbar-toggler-icon
+{
+	background-color: #FFFF00;
+}
+
+.navbar-collapse
+{
+	background-color: #151515 !important;
+	border-bottom: 1px solid black !important;
+	
+}
+
+th
+{
+	background-color: #151515 !important;
+}
+
+th, td {
+    border: 2px solid #151515 !important;
+}
+
+.row a:link
+{
+	color: #FFFF00 !important;
+}
+
+a:visited
+{
+	color: #FFFF00 !important;
+}
+
+
+form {
+	background-color: black !important;
+}
+
+button[type="reset"], button[type="submit"]
+{
+	background-color: black !important;
+	border: 1px solid #FFFF00;
+}
+
+.contrast-button {
+	border: 1px solid #FFFF00 !important;
+}
+
+.content img {
+	filter: brightness(0.2) !important;
+}
+
+
+.contrast-button {
+      background-color: #000;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
